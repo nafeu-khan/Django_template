@@ -16,12 +16,12 @@
 					"formdata": [
 						{
 							"key": "username",
-							"value": "admin11",
+							"value": "admin",
 							"type": "text"
 						},
 						{
 							"key": "password ",
-							"value": "@asdfghjkl1",
+							"value": "12345",
 							"type": "text"
 						},
 						{
@@ -104,7 +104,7 @@
 						},
 						{
 							"key": "password",
-							"value": "@asdfghjkl1",
+							"value": "1234",
 							"type": "text"
 						}
 					]
@@ -182,7 +182,7 @@
 						},
 						{
 							"key": "password",
-							"value": "@asdfghjkl1",
+							"value": "1234",
 							"type": "text"
 						}
 					]
